@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "module": "amd",
+        "target": "es6",
+        "noImplicitAny": false,
+        "sourceMap": false,
+        "outFile": "src/App.js",
+        "jsx": "react"
+    },
+    "files": [
+        "src/javascript/game.ts"//, "node_modules/typescript/lib/lib.es6.d.ts"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}
